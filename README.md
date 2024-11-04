@@ -17,7 +17,7 @@
 <h3 align="left">Entre em contato!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=B30000&color:FFF)](mailto:vitorkeller1604@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=B30000&color:FFF)](https://www.linkedin.com/in/vitorkeller1604/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=B30000&color:FFF)](https://www.linkedin.com/in/vitorkeller/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=B300006&color:FFF)](https://www.instagram.com/vitorkeller1604/)
 
 <h3 align="left"> My Stack ~</h3>
@@ -36,17 +36,17 @@
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vitorkeller1604&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=B30000&text_color=FFF&border_radius=3&border_color=B30000&icon_color=b30000&theme=jolly" alt="GitHub stats">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vitorkeller&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=B30000&text_color=FFF&border_radius=3&border_color=B30000&icon_color=b30000&theme=jolly" alt="GitHub stats">
 
-  <a href="https://github.com/vitorkeller1604/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vitorkeller1604&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=B30000&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=B30000&count_private=true" alt="Most Used Languages">
+  <a href="https://github.com/vitorkeller/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vitorkeller&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=B30000&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=B30000&count_private=true" alt="Most Used Languages">
   </a>
 </div>
 
 #
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorkeller1604/vitorkeller1604/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorkeller1604/vitorkeller1604/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vitorkeller1604/vitorkeller1604/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorkeller/vitorkeller/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorkeller/vitorkeller/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vitorkeller/vitorkeller/output/github-contribution-grid-snake.svg">
 </picture>
